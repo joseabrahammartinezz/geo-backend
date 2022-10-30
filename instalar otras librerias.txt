@@ -1,0 +1,21 @@
+pip install pipwin
+pipwin install gdal
+pip install django
+pip install
+
+pipwin install numpy
+pipwin install shapely
+
+pipwin install fiona
+pipwin install pyproj
+pip install six
+pipwin install rtree
+pip install geopandas
+pip install SQLAlchemy
+pipwin install pycurl
+pip install geoserver-rest
+pipwin install pandas
+
+pip install geoalchemy2
+
+pipwin install rasterio
